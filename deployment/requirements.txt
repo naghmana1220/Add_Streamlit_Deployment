@@ -1,0 +1,3 @@
+#kn kn sy modules or packages hi jo vercel deploy kre wo es ma likhenge
+#Node js ki duniya ka package.json ha yefile
+fastapi[standard]
